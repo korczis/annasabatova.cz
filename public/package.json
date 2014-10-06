@@ -1,0 +1,22 @@
+{
+  "name": "annasabatova.cz",
+  "version": "0.0.0",
+  "description": "Petice za odvolani Anny Sabatove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/korczis/annasabatova.cz.git"
+  },
+  "author": "korczis@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korczis/annasabatova.cz/issues"
+  },
+  "homepage": "https://github.com/korczis/annasabatova.cz",
+  "dependencies": {
+    "express": "4.x"
+  }
+}
